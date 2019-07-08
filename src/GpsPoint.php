@@ -10,6 +10,7 @@ use Nette;
  *
  * @property float $lat
  * @property float $lng
+ * @property string|null $address
  *
  * @author Vojtěch Dobeš
  */
